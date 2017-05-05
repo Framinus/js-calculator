@@ -1,0 +1,22 @@
+{
+  "name": "js-calculator",
+  "authors": [
+    "James McCormack <thejamesmccormack@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "font-awesome": "^4.7.0",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
